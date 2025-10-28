@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/mannshrimali2110">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Mann+Shrimali; Backend+Developer+%7C+Data+Analyst;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hey+there!+👋;I'm+Mann+Shrimali;+ Backend+Developer+%7C+Data+Analyst;" alt="Typing SVG" />
   </a>
 </div>
 
